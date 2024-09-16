@@ -13,4 +13,5 @@ public class Contacts {
 	private String contactNumber;	
 	private String address;
 	private String address_2	;
+	private String address_3;
 }
