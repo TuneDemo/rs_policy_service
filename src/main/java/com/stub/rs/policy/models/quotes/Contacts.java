@@ -12,4 +12,5 @@ public class Contacts {
 	private String contactType;
 	private String contactNumber;	
 	private String address;
+	private String address_2	;
 }
